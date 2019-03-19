@@ -1,0 +1,8 @@
+{
+	"api_key": "",
+	"custom_search_id": "",
+	"dir_name": "./results",
+	"query_file": "queries.txt",
+	"num": 20,
+	"i": 0
+}
